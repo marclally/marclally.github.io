@@ -13,40 +13,22 @@ website: https://marclally.github.io
 darkmode: true
 
 # Social links
-# twitter_username: jekyllrb
+# twitter_username:
 github_username: marclally
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
+# facebook_username:
 linkedin_username: marclally
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
 # - title: Link name
 #   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+# about_title: About (Use this to override about section title)
 about_profile_image: assets/avatar.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I specialize in Full-stack development of ES6 Node/React Javascript frameworks. I can work in front-end and back-end
+  With over 20 years industry experience, I specialize in Full-stack development of ES6 Node/React Javascript frameworks. I can work in front-end and back-end
   development and therefore lead a project from design, through to launch. I excel at finding software solutions to business
   problems. A full stack developer with extensive abilities in web application development, data modelling, database design
   and integration. 
@@ -56,24 +38,14 @@ about_content: | # this will include new lines to allow paragraphs
   usability, security and scalability. I have designed software solutions driving continuous improvement to processes, systems, work ow and responsiveness.
   Great knowledge and working experience of software project methodologies.
 
-# Projects Section
-projects_title: Skills
-
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
-
-# Education Section
-# education_title: Education #(Use this to override about education section title)
-
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+# more_title: A Little More About #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)

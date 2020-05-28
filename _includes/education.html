@@ -1,6 +1,5 @@
 <div class="container education-container">
   <h3><span>{{ site.education_title | default: "Education" }}</span></h3>
-  {% for education in site.data.education %}
-    {% include {{ education.layout | default: 'left' | append: ".html" }} item=education %}
-  {% endfor %}
+  {% for education in site.data.education %} {% include {{ education.layout |
+  default: 'left' | append: ".html" }} item=education %} {% endfor %}
 </div>

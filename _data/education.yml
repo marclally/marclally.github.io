@@ -1,9 +1,15 @@
-# Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  name: "University College London"
+  dates: "1990 - 1993"
+  qualification: "BSc Computer Science"
+  description: "With its strong focus on solving real-world problems through problem-based learning, this BSc delivers world-class, industry-relevant teaching. The programme provides the essential material employers expect from a top-quality computer science graduate, and prepares you for employment in a wide variety of industries.\n"
+- layout: left
+  name: "AWS Accreditation"
+  dates: "December 2019 February 2020"
+  qualification: "AWS Certified Developer - Associate"
+  description: "Develop, deploy and debug cloud-based applications using AWS. Practical, hands-on skills for successfully developing with all the major services in AWS.\n"
+- layout: left
+  name: "AWS Accreditation"
+  dates: "December 2019 February 2020"
+  qualification: "AWS Certified Solutions Architect - Associate"
+  description: "Thorough understanding how to make decisions between products and services on AWS, and how to begin architecting your own solutions on AWS.\n"
