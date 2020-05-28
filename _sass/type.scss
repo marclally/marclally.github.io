@@ -16,14 +16,15 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-size: 1rem;
   line-height: 1.2;
   margin: 0 0 0.75rem;
 }
 
 p {
-  margin: 0 0 0.75rem; }
+  margin: 0 0 0.75rem;
+}
 
 a {
   color: #477dca;
@@ -32,7 +33,7 @@ a {
 a:active,
 a:focus,
 a:hover {
-color: #355e98;
+  color: #355e98;
 }
 
 h1 {
@@ -47,33 +48,38 @@ h2 {
 }
 
 h3 {
-  margin-left: 100px;
-  margin-right: 100px;
   font-weight: 300;
   font-size: 2rem;
   text-align: center;
-  border-bottom: solid 4px #CCCCCC;
-  padding-bottom: 10px;
-  margin-bottom:40px;
-
+  border-bottom: solid 4px #cccccc;
+  margin-bottom: 40px;
+  width: 100%;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
   @media print {
     margin-bottom: 20px;
   }
 }
+h3 span {
+  background: #222;
+  padding: 0 15px;
+  font-weight: bold;
+}
 
 h4 {
   font-weight: 300;
-  font-size:1.5rem;
-  margin-bottom:3px;
+  font-size: 1.5rem;
+  margin-bottom: 3px;
 }
 
-p, ul {
+p,
+ul {
   font-size: 1.4rem;
   text-align: justify;
 }
 
 a i {
-  font-size:1.6rem;
+  font-size: 1.6rem;
 }
 
 mark {
@@ -82,6 +88,6 @@ mark {
   color: #fff;
   background-color: #333;
   border-radius: 3px;
-  -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.25);
-  box-shadow: inset 0 -1px 0 rgba(0,0,0,.25);
+  -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
 }

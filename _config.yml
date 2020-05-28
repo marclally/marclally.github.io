@@ -14,7 +14,7 @@ darkmode: true
 
 # Social links
 # twitter_username: jekyllrb
-github_username:  marclally
+github_username: marclally
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -49,11 +49,11 @@ about_content: | # this will include new lines to allow paragraphs
   I specialize in Full-stack development of ES6 Node/React Javascript frameworks. I can work in front-end and back-end
   development and therefore lead a project from design, through to launch. I excel at finding software solutions to business
   problems. A full stack developer with extensive abilities in web application development, data modelling, database design
-  and integration. Excellent analytical skills and commercial awareness combined with the knowledge to handle the entire
-  software development life cycle.
+  and integration. 
 
-  Skilled in translating business requirements into technical solutions. Committed to quality, usability, security and scalability. I
-  have designed software solutions driving continuous improvement to processes, systems, work ow and responsiveness.
+  Excellent analytical skills and commercial awareness combined with the knowledge to handle the entire
+  software development life cycle. Skilled in translating business requirements into technical solutions. Committed to quality, 
+  usability, security and scalability. I have designed software solutions driving continuous improvement to processes, systems, work ow and responsiveness.
   Great knowledge and working experience of software project methodologies.
 
 # Projects Section
@@ -84,17 +84,18 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
+exclude:
+  [
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+    "lib/",
+    "scripts/",
+    "docker-compose.yml",
   ]
