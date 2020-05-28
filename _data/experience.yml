@@ -33,11 +33,10 @@
   job_title: "PHP / Javascript Software Developer"
   dates: "October 2016 to March 2017"
   quote: "<mark>Craft</mark>  <mark>PHP</mark>  <mark>JQuery</mark> <mark>Ajax</mark>\n"
-  description: "Develop and integrate OAuth services for global clients and further develop functionality for administration components. Build efficient, testable, and reusable modules and classes. Solve complex performance problems and architectural challenges, SAML & OAuth integration. \n* Integration of data storage solutions. \n* Conduct testing and deployninto production. \n* Updating, repairing, modifying and developing legacy code and generic applications. \n* Contribute to concept/pitching digital experiences for brands & agencies. \n* Build Craft CMS PHP plugins to extend functionality of\nadministration system for asset management services for global clients."
--
-  layout: left
-  company: 'Purple Bridge Publishing Group'
-  job_title: 'Senior Developer / Team Lead'
-  dates: 'October 2016 to March 2017'
+  description: "Develop and integrate OAuth services for global clients and further develop functionality for administration components. Build efficient, testable, and reusable modules and classes. Solve complex performance problems and architectural challenges, SAML & OAuth integration. \n* Integration of data storage solutions. \n* Conduct testing and deploy into production. \n* Updating, repairing, modifying and developing legacy code and generic applications. \n* Contribute to concept/pitching digital experiences for brands & agencies. \n* Build Craft CMS PHP plugins to extend functionality of\nadministration system for asset management services for global clients."
+- layout: left
+  company: "Purple Bridge Publishing Group"
+  job_title: "Senior Developer / Team Lead"
+  dates: "October 2016 to March 2017"
   quote: "<mark>Laravel</mark>  <mark>PHP</mark>  <mark>JQuery</mark> <mark>Ajax</mark> <mark>DevOps</mark> <mark>MySQL</mark>\n"
   description: "Develop and lead dev team. Typical LAMP stack. Server congurations and pipeline setup, Docker containers. TDD Unit testing with PHPUnit. Design, develop, test, support and deploy custom web applications. Design and develop testing and maintenance procedures and activities. Assist and support junior team members on multiple projects. Implement best practices, standards and procedures. Develop and document design, source base and architecture. Maintain and manage existing code bases. Design, develop and implement solutions to user’s needs and requirements. \n* Write, review and improvise code. \n* Coordinate with directors and business analysts to determine functionalities. \n* Design and develop technical solutions to complex business problems. \n* Design and develop data analysis solutions. \n* Design and develop logical and physical data models that meet application requirements. \n* Design, build and deploy web services including API, databases, websites and office management software."
