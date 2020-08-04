@@ -1,9 +1,9 @@
 - layout: left
-  company: Karmarama
-  job_title: "Javascript Middleware Developer"
-  dates: "March 2020 to May 2020"
-  quote: "<mark>Node</mark>  <mark>GraphQL</mark>  <mark>AWS</mark>  <mark>Serverless</mark> <mark>Lambda</mark> <mark>Typescript</mark>\n"
-  description: "Responsible for managing the interchange of data between Google DV360 and the frontend through a GraphQL API,\ndevelopment of all server-side logic and ensuring high performance and responsiveness to requests.\n\n* Refactor existing code source based on best-practices & standards.\n* Writing reusable, testable, and efficient code.\n* Well-practiced Test driven development.\n* Design and implementation of low-latency, high-availability, and performant applications.\n* Implementation of security and data protection.\n* Integration of data storage solutions.\n"
+  company: Codegazer (self employed)
+  job_title: "Senior Javascript Developer"
+  dates: "February 2020 to August 2020"
+  quote: "<mark>Node</mark>  <mark>GraphQL</mark>  <mark>AWS</mark>  <mark>Serverless</mark> <mark>Lambda</mark> <mark>Typescript</mark> <mark>React</mark>\n"
+  description: "Refactor existing code source based on best-practices & standards.\n Writing reusable, testable, and efficient code.\n Well-practiced Test driven development. \n Design and implementation of low-latency, high-availability, and performant applications. \n Implementation of security and data protection. \n Integration of data storage solutions. \n"
 - layout: left
   company: "KFC Western Europe"
   job_title: "Javascript Software Developer"
