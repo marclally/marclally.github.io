@@ -17,13 +17,13 @@
   quote: "<mark>Linux</mark> <mark>Node</mark>  <mark>React</mark>  <mark>AWS</mark>  <mark>Serverless</mark> <mark>Lambda</mark> <mark>Postgres</mark> <mark>Redis</mark> <mark>Typescript</mark>  <mark>PHP</mark> <mark>JQuery</mark>\n"
   description: "Develop and design integrations between our digital ordering systems, point of sale system, payment solutions \nand related tools to support those systems. Develop internal applications to allow for digital orders placed through \n3rd party integrations. \n\n* Ensure data integrity between systems through integration layers.\n* Migrated legacy codebase (Heroku) into new AWS Technical Architecture that supported a new digital transformation \n  project whilst maintaining high availability for existing services with a broad scope that included frontend, backend, POS systems and Salesforce.\n* Design and develop new user-facing and backend features.\n* Develop specications and designs for complex applications whilst modifying/maintaining complex existing applications.\n* Perform code analysis, requirements analysis, identication of code metrics, system risk analysis and software reliability analysis.\n* Performance tuning, improvement, balancing, usability, testing.\n* Design and develop backend services and structure.\n"
 - layout: left
-  company: Preqin
+  company: "Preqin"
   job_title: "Javascript Software Developer"
   dates: "November 2018 to February 2019"
   quote: "<mark>Node</mark>  <mark>React</mark>  <mark>Redux</mark>  <mark>Typescript</mark> <mark>ElasticSearch</mark>\n"
   description: "Develop and enhance the main front end platform - website. Design and develop new user-facing\nfeatures. \n* Develop specications and designs for complex applications or modifying/maintaining \ncomplex existing applications. \n* Perform code analysis, requirements analysis, identication of code metrics, \nsystem risk analysis and software reliability analysis. \n* Performance tuning, improvement, balancing, usability, testing.\n"
 - layout: left
-  company: MelodyVR
+  company: "MelodyVR"
   job_title: "Javascript Software Developer"
   dates: "November 2018 to February 2019"
   quote: "<mark>Node</mark>  <mark>React</mark>  <mark>Redux</mark> \n<mark>AWS</mark>  <mark>Serverless</mark> <mark>Lambda</mark> <mark>Typescript</mark> <mark>Linux</mark>\n"
@@ -35,7 +35,7 @@
   quote: "<mark>Node</mark>  <mark>React</mark>  <mark>Redux</mark> \n<mark>AWS</mark>  <mark>Koa</mark> <mark>MicroServices</mark> <mark>Typescript</mark> <mark>OpenAPI Spec</mark>\n"
   description: "Develop a series of microservice application architecture counselling applications. Solve complex performance problems and architectural challenges. \n* Integration of data storage solutions. \n* Build efficient, testable, and reusable modules and classes. \n* Conduct testing and deploy into production. Updating, repairing, modifying and developing legacy code and generic applications. \n* Contribute to planning/concept/design of information architecture. \n* Contribute and add to Node microservices API, add libraries and develop functionality. \n* Run environments through Docker containers and local services. \n* Develop components for React applications for counselling services. \n* Build components to detailed specications. Congure payment services, webhooks to Stripe. Build database schemas. Jest/Mocha mock/dontMock unit testing. Redux/Redux Saga middleware."
 - layout: left
-  company: Futurebrand
+  company: "Futurebrand"
   job_title: "PHP / Javascript Software Developer"
   dates: "October 2016 to March 2017"
   quote: "<mark>Craft</mark>  <mark>PHP</mark>  <mark>JQuery</mark> <mark>Ajax</mark>\n"
@@ -46,19 +46,19 @@
   dates: "January 2015 to September 2016"
   quote: "<mark>Laravel</mark>  <mark>PHP</mark>  <mark>JQuery</mark> <mark>Ajax</mark> <mark>DevOps</mark> <mark>MySQL</mark> <mark>Linux</mark>\n"
   description: "Develop and lead dev team. Typical LAMP stack. Server congurations and pipeline setup, Docker containers. TDD Unit testing with PHPUnit. Design, develop, test, support and deploy custom web applications. Design and develop testing and maintenance procedures and activities. Assist and support junior team members on multiple projects. Implement best practices, standards and procedures. Develop and document design, source base and architecture. Maintain and manage existing code bases. Design, develop and implement solutions to user’s needs and requirements. \n* Write, review and improvise code. \n* Coordinate with directors and business analysts to determine functionalities. \n* Design and develop technical solutions to complex business problems. \n* Design and develop data analysis solutions. \n* Design and develop logical and physical data models that meet application requirements. \n* Design, build and deploy web services including API, databases, websites and office management software."
-  - layout: left
+- layout: left
   company: "MediaCode"
   job_title: "Senior Software Developer"
   dates: "May 2006 to October 2014"
   quote: "<mark>PHP</mark>  <mark>JQuery</mark> <mark>Ajax</mark> <mark>DevOps</mark> <mark>MySQL</mark> <mark>HTML</mark> <mark>Linux</mark>\n"
   description: "Design, develop, and maintain custom applications that integrate with business applications.  \n* Interact with customers to develop business requirements. \n* Define and document architecture and functional and design requirements. \n* Conform to coding conventions and change control and product release policies. \n* Participate in the continuous process improvement of solutions. \n*  Design and develop database management systems, image processing, collaborative tools, data manipulation, techniques, data visualization techniques, and directory services."
-  - layout: left
+- layout: left
   company: "Orange"
   job_title: "Business Support Analyst"
   dates: "March 2001 to February 2006"
   quote: "<mark>Laravel</mark>  <mark>PHP</mark>  <mark>JQuery</mark> <mark>Ajax</mark> <mark>DevOps</mark> <mark>MySQL</mark>\n"
   description: "I worked in a business operations role for the global franchising team who operated internationally. I provided technical development and guidance for integration and migration of company branding for digital services. \n* Work with other Analysts and users to understand business reporting requirements. \n* Develop and implement report objects supporting end-user business requirements. \n* Assist in the creation of development standards and processes. \n* Monitor jobs and troubleshoot the environment. \n* Work with Engineers to support them through integration into existing application layers. \n*  Design and develop automated applications and reporting solutions."
-  - layout: left
+- layout: left
   company: "HSBC"
   job_title: "Software Engineer"
   dates: "1997 to 2001"
