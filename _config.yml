@@ -28,7 +28,7 @@ additional_links:
 # about_title: About (Use this to override about section title)
 about_profile_image: assets/avatar.jpg
 about_content: | # this will include new lines to allow paragraphs
-  With over 20 years industry experience, I specialize in Full-stack development of ES6 Node/React Javascript frameworks. I can work in front-end and back-end
+  With over 20 years industry experience, I specialize in Full-stack development of modern Node/React Javascript frameworks. I can work in front-end and back-end
   development and therefore lead a project from design, through to launch. I excel at finding software solutions to business
   problems. A full stack developer with extensive abilities in web application development, data modelling, database design
   and integration. 
