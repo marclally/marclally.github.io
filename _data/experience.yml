@@ -1,4 +1,12 @@
 - layout: left
+  company: "Studio Rotate"
+  job_title: "Technical Lead"
+  dates: "September 2020 to February 2021"
+  quote: "<mark>Node</mark>  <mark>AWS</mark>  <mark>Serverless</mark> <mark>Lambda/Step Functions</mark> <mark>Typescript</mark> <mark>Nuxt/Vue</mark> <mark>OAuth/JWT</mark> <mark>CI/CD</mark>\n"
+  description: "Solve complex performance problems and architectural challenges - Integration of data storage solutions. \n  * Build efficient, testable, and reusable modules and classes.\n * Contribute to planning/concept/design of information architecture.\n * Nuxt/Vue JS.
+\n * Serverless/AWS\n * Typescriptt\n * Build Node/ Serverless API, add libraries and develop functionality.\n * Ensure components are built to detailed specifications.\n * Configure payment services, webhooks and payment gateways.\n * Build database schemas.\n  * OAuth/JWT token integration.
+\n * Promote best practices in all areas of software development.\n"
+- layout: left
   company: "SportStack"
   job_title: "Contract Senior Frontend Developer"
   dates: "June 2020 to August 2020"
@@ -21,7 +29,7 @@
   job_title: "Contract Javascript Software Developer"
   dates: "November 2018 to February 2019"
   quote: "<mark>Node</mark>  <mark>React</mark>  <mark>Redux</mark>  <mark>Typescript</mark> <mark>ElasticSearch</mark>\n"
-  description: "Develop and enhance the main front end platform - website. Design and develop new user-facing\nfeatures. \n* Develop specications and designs for complex applications or modifying/maintaining \ncomplex existing applications. \n* Perform code analysis, requirements analysis, identication of code metrics, \nsystem risk analysis and software reliability analysis. \n* Performance tuning, improvement, balancing, usability, testing.\n"
+  description: "Develop and enhance the main front end platform - website. Design and develop new user-facing features. \n* Develop specications and designs for complex applications or modifying/maintaining \ncomplex existing applications. \n* Perform code analysis, requirements analysis, identication of code metrics, \nsystem risk analysis and software reliability analysis. \n* Performance tuning, improvement, balancing, usability, testing.\n"
 - layout: left
   company: "MelodyVR"
   job_title: "Contract Javascript Software Developer"
