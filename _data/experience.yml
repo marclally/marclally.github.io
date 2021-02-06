@@ -21,7 +21,7 @@
 - layout: left
   company: "KFC Western Europe"
   job_title: "Javascript Software Developer"
-  dates: "February 2019 to November 2019"
+  dates: "February 2019 to February 2020"
   quote: "<mark>Node</mark>  <mark>React</mark>  <mark>AWS</mark>  <mark>Serverless</mark> <mark>Lambda</mark> <mark>Postgres</mark> <mark>Redis</mark> <mark>Typescript</mark> \n"
   description: "Develop and design integrations between our digital ordering systems, point of sale system, payment solutions \nand related tools to support those systems. Develop internal applications to allow for digital orders placed through \n3rd party integrations. \n\n* Ensure data integrity between systems through integration layers.\n* Migrated legacy codebase (Heroku) into new AWS Technical Architecture that supported a new digital transformation \n  project whilst maintaining high availability for existing services with a broad scope that included frontend, backend, POS systems and Salesforce.\n* Design and develop new user-facing and backend features.\n* Develop specications and designs for complex applications whilst modifying/maintaining complex existing applications.\n* Perform code analysis, requirements analysis, identication of code metrics, system risk analysis and software reliability analysis.\n* Performance tuning, improvement, balancing, usability, testing.\n* Design and develop backend services and structure.\n"
 - layout: left
@@ -33,7 +33,7 @@
 - layout: left
   company: "MelodyVR"
   job_title: "Contract Javascript Software Developer"
-  dates: "November 2018 to February 2019"
+  dates: "January 2018 to October 2018"
   quote: "<mark>Node</mark>  <mark>React</mark>  <mark>Redux</mark> \n<mark>AWS</mark>  <mark>Serverless</mark> <mark>Lambda</mark> <mark>Typescript</mark> <mark>Linux</mark>\n"
   description: "Develop/Design/Build a fullstack integration for a Content Management System using Node/React in AWS/Serverless. Integration of data storage solutions. \n* Build efficient, testable, and reusable modules and classes. Conduct testing and deploy into production. \n* Contribute to planning/concept/design of information architecture. \n* Design and Develop React JS front-end application CMS. \n* Provide technical support to the team during the devlopment of the application solution.\n* Determine business requirements and translate into component architecture within a limited timescale. \n* Determine front-end application architecture. Initial integration into a AWS Cognito SDK using React/Redux Sagas pushing to CircleCI/AWS pipeline. \n* Design/Develop CMS for company use. Semantic UI interface with React, immutable, redux sagas, jest/enzyme unit testing.\n"
 - layout: left
